@@ -1,5 +1,5 @@
 # makefile
-| 第一课：make和makfile简介 | 链接 |
+| 第一课：make和makfile简介 | [链接](https://github.com/T1mzhou/Makefile/blob/main/1.%E7%AC%AC%E4%B8%80%E8%AF%BEmake%E5%92%8Cmakefile.md) |
 | :-----------------------: | ---- |
 |                           |      |
 |                           |      |

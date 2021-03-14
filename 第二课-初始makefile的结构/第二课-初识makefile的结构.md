@@ -1,4 +1,4 @@
-### 初始makefile的结构
+### 初识makefile的结构
 
 ****
 

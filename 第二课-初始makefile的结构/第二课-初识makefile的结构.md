@@ -37,8 +37,6 @@ target : prerequisites ; command1
 * **续行符： ’\‘**
   	*    可以将内容分开写道下一行，提高整体的可读性
 
-　　一个简单的makefile如下:
-
 #### 　一个makefile的依赖示例
 
 ```makefile

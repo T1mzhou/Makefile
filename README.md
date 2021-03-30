@@ -7,6 +7,7 @@
 | 第五课-预定义变量的使用 | [链接地址](https://github.com/T1mzhou/Makefile/blob/main/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E9%A2%84%E5%AE%9A%E4%B9%89%E5%8F%98%E9%87%8F%E7%9A%84%E4%BD%BF%E7%94%A8/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E9%A2%84%E5%AE%9A%E4%B9%89%E5%8F%98%E9%87%8F%E7%9A%84%E4%BD%BF%E7%94%A8.md) |
 | 第六课-变量的高级主题(上) | [链接地址](https://github.com/T1mzhou/Makefile/blob/main/%E7%AC%AC%E5%85%AD%E8%AF%BE-%E5%8F%98%E9%87%8F%E7%9A%84%E9%AB%98%E7%BA%A7%E4%B8%BB%E9%A2%98(%E4%B8%8A)/%E7%AC%AC%E5%85%AD%E8%AF%BE-%E5%8F%98%E9%87%8F%E7%9A%84%E9%AB%98%E7%BA%A7%E4%B8%BB%E9%A2%98(%E4%B8%8A).md) |
 | 第七课-变量的高级主题(下) | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E4%B8%83%E8%AF%BE-%E5%8F%98%E9%87%8F%E7%9A%84%E9%AB%98%E7%BA%A7%E4%B8%BB%E9%A2%98(%E4%B8%8B)) |
+| 第八课-条件判断语句 | 链接地址 |
 
 ## Reference：
 

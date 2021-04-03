@@ -10,6 +10,7 @@
 | 第八课-条件判断语句 | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%85%AB%E8%AF%BE-%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5) |
 | 第九课-函数定义及调用 | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E4%B9%9D%E8%AF%BE-%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89%E5%8F%8A%E8%B0%83%E7%94%A8) |
 | 第十课-变量与函数的综合示例 | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%8D%81%E8%AF%BE-%E5%8F%98%E9%87%8F%E4%B8%8E%E5%87%BD%E6%95%B0%E7%9A%84%E7%BB%BC%E5%90%88%E7%A4%BA%E4%BE%8B) |
+| 第十一课-自动生成依赖关系(上) | 链接地址 |
 
 ## Reference：
 

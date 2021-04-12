@@ -12,7 +12,7 @@
 | 第十课-变量与函数的综合示例 | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%8D%81%E8%AF%BE-%E5%8F%98%E9%87%8F%E4%B8%8E%E5%87%BD%E6%95%B0%E7%9A%84%E7%BB%BC%E5%90%88%E7%A4%BA%E4%BE%8B) |
 | 第十一课-自动生成依赖关系(上) | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%8A)) |
 | 第十二课-自动生成依赖关系(中) | [链接地址](https://github.com/T1mzhou/Makefile/blob/main/%E7%AC%AC%E5%8D%81%E4%BA%8C%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%AD)/%E7%AC%AC%E5%8D%81%E4%BA%8C%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%AD)%20.md) |
-| 第十三课-自动生成依赖关系(下) | 链接地址 |
+| 第十三课-自动生成依赖关系(下) | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%8B)) |
 
 ## Reference：
 

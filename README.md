@@ -14,7 +14,7 @@
 | 第十一课-自动生成依赖关系(上) | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%8A)) |
 | 第十二课-自动生成依赖关系(中) | [链接地址](https://github.com/T1mzhou/Makefile/blob/main/%E7%AC%AC%E5%8D%81%E4%BA%8C%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%AD)/%E7%AC%AC%E5%8D%81%E4%BA%8C%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%AD)%20.md) |
 | 第十三课-自动生成依赖关系(下) | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E4%B8%8B)) |
-| 第十四课-自动生成依赖关系(续) | 链接地址 |
+| 第十四课-自动生成依赖关系(续) | [链接地址](https://github.com/T1mzhou/Makefile/tree/main/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%AF%BE-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB(%E7%BB%AD)) |
 
 ## Reference：
 
